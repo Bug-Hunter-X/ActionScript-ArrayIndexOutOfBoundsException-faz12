@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript error: ArrayIndexOutOfBoundsException.  The bug.as file contains code that attempts to access an array element beyond its bounds, resulting in an exception. The bugSolution.as file shows how to avoid this error by checking the array bounds before accessing elements or using a try-catch block.
